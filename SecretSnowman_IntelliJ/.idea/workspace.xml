@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1afff4-c384-48a6-b42c-490f460b01b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecretSnowman_IntelliJ/SecretSnowman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecretSnowman_IntelliJ/SecretSnowman.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecretSnowman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecretSnowman.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +31,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +73,7 @@
       <workItem from="1576034710381" duration="8000" />
       <workItem from="1576034944362" duration="406000" />
       <workItem from="1576035609368" duration="137000" />
+      <workItem from="1576036412569" duration="2305000" />
     </task>
     <servers />
   </component>

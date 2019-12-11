@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1afff4-c384-48a6-b42c-490f460b01b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecretSnowman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecretSnowman.java" afterDir="false" />
     </list>
@@ -72,6 +70,7 @@
       <workItem from="1576034593969" duration="52000" />
       <workItem from="1576034710381" duration="8000" />
       <workItem from="1576034944362" duration="406000" />
+      <workItem from="1576035609368" duration="137000" />
     </task>
     <servers />
   </component>
@@ -83,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

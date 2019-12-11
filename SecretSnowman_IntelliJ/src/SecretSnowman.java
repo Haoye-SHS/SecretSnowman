@@ -32,6 +32,7 @@ public class SecretSnowman {
     public static void pair() {
         int randIndexA = 0;
         int randIndexB = 0;
+        String list = "";
 
         while(a.size() > 1) {
             randIndexA = (int)(a.size() * Math.random());
@@ -41,17 +42,17 @@ public class SecretSnowman {
                 continue;
             }
 
-            System.out.println(a.get(randIndexA) + " has been paired with " + b.get(randIndexB));
+            list = list + a.get(randIndexA) + " has been paired with " + b.get(randIndexB) + "\n";
             a.remove(randIndexA);
             b.remove(randIndexB);
         }
 
         if (a.get(0).equals(b.get(0))) {
-            System.out.println("THE LIST ABOVE HAS BEEN INVALIDATED, PRINTING NEW LIST");
             readNames();
             pair();
         }
 
+        System.out.print(list);
         System.out.println(a.get(0) + " has been paired with " + b.get(0));
     }
 }

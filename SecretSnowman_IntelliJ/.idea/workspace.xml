@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de1afff4-c384-48a6-b42c-490f460b01b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecretSnowman_IntelliJ/SecretSnowman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecretSnowman_IntelliJ/SecretSnowman.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecretSnowman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecretSnowman.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,6 +73,8 @@
       <workItem from="1576034944362" duration="406000" />
       <workItem from="1576035609368" duration="137000" />
       <workItem from="1576036412569" duration="2305000" />
+      <workItem from="1576079892441" duration="103000" />
+      <workItem from="1576080033462" duration="27000" />
     </task>
     <servers />
   </component>

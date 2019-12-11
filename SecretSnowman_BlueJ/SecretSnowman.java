@@ -28,6 +28,7 @@ public class SecretSnowman {
             a.add(name);
             b.add(name);
         }
+
         names.close();
     }
 
@@ -54,7 +55,7 @@ public class SecretSnowman {
             pair();
         } else {
             list = list + a.get(0) + " has been paired with " + b.get(0) + "\n";
-            System.out.print(list);
+            System.out.println(list);
         }
     }
 }

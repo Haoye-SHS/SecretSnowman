@@ -23,4 +23,4 @@ Plain Patrick
 Evil Eric W.
 Omniscient Oriel
 Virtuous Vermes
-Imaginary Ivan(to make even amount of names)
+Imaginary Ivan(to make even amount of names even though odd amount of names should work just fine)

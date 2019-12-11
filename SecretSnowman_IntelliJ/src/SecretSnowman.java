@@ -34,8 +34,8 @@ public class SecretSnowman {
         int randIndexB = 0;
 
         while(a.size() > 1) {
-            randIndexA = (int)((a.size()) * Math.random());
-            randIndexB = (int)((b.size()) * Math.random());
+            randIndexA = (int)(a.size() * Math.random());
+            randIndexB = (int)(b.size() * Math.random());
 
             if (a.get(randIndexA).equals(b.get(randIndexB))) {
                 continue;
@@ -46,7 +46,11 @@ public class SecretSnowman {
             b.remove(randIndexB);
         }
 
-        if (a.get(0).equals(b.get(0))) pair();
+        if (a.get(0).equals(b.get(0))) {
+            System.out.println("THE LIST ABOVE HAS BEEN INVALIDATED, PRINTING NEW LIST");
+            readNames();
+            pair();
+        }
 
         System.out.println(a.get(0) + " has been paired with " + b.get(0));
     }

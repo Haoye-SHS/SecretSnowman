@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Zhang & Haoye Tang
+ * @version 1576173719
+ */
+
 import java.util.ArrayList;
 import java.io.File;
 import java.util.Scanner;
